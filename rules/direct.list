@@ -1,0 +1,20 @@
+# ✅ rules/direct.list
+# Direct Rules
+# Update: 2026-05
+
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,local
+
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alipay.com
+
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360.cn
