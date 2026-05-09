@@ -1,9 +1,12 @@
-# ✅ modules/adblock.sgmodule（推荐最终版）
 #!name=AdBlock (Lite)
-#!desc=轻量级去广告模块，偏保守，不影响正常使用
+#!desc=Lightweight ad removal module, conservative, does not affect normal use
 #!author=SantaG3225
 #!update=2026-05
 #!homepage=https://github.com/SantaG3225/surge-config
+#!type=rule
+
+
+
 
 [Rule]
 # --- Generic Advertisement ---
