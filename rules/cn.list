@@ -1,0 +1,142 @@
+# ✅ rules/cn.list（Final Version）
+# China Mainland Services
+# Purpose: Mainland China direct routing
+# Format: DOMAIN / DOMAIN-SUFFIX only
+# Maintained by: SantaG3225
+# Updated: 2026-05
+
+############################
+# Major Internet Companies
+############################
+
+# Alibaba
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,1688.com
+
+# Tencent
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,gtimg.com
+
+# Baidu
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,baidubce.com
+
+# ByteDance
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+
+############################
+# E-commerce
+############################
+
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdcdn.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,suning.com
+DOMAIN-SUFFIX,gome.com.cn
+
+############################
+# Finance & Payments
+############################
+
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpayintl.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,psbc.com
+
+############################
+# Cloud & CDN (China)
+############################
+
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliyun-inc.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,tencentyun.com
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,chinacache.net
+DOMAIN-SUFFIX,chinacache.com
+
+############################
+# Media & Streaming
+############################
+
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.tv
+
+############################
+# Social & Community
+############################
+
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+
+############################
+# News & Portals
+############################
+
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,people.com.cn
+DOMAIN-SUFFIX,xinhua.org
+
+############################
+# Government & Education
+############################
+
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,org.cn
+
+############################
+# Utilities & Misc
+############################
+
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,meizu.com
