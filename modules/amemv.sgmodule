@@ -1,0 +1,11 @@
+#!name=Douyin Proxy
+#!desc=Douyin/Toutiao domain name agency
+#!author=SantaG3225
+#!update=2026-05
+#!type=rule
+
+[Rule]
+DOMAIN-SUFFIX,amemv.com,Proxy,extended-matching
+DOMAIN-SUFFIX,snssdk.com,Proxy,extended-matching
+DOMAIN-SUFFIX,douyinvod.com,Proxy,extended-matching
+DOMAIN-SUFFIX,pstatp.com,Proxy,extended-matching
