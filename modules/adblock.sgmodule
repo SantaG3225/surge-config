@@ -1,0 +1,36 @@
+# ✅ modules/adblock.sgmodule（推荐最终版）
+#!name=AdBlock (Lite)
+#!desc=轻量级去广告模块，偏保守，不影响正常使用
+#!author=SantaG3225
+#!update=2026-05
+#!homepage=https://github.com/SantaG3225/surge-config
+
+[Rule]
+# --- Generic Advertisement ---
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,adservice.google.com,REJECT
+DOMAIN-SUFFIX,ads.msn.com,REJECT
+DOMAIN-SUFFIX,ads-twitter.com,REJECT
+
+# --- Common domestic advertisements ---
+DOMAIN-SUFFIX,cnzz.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,baidustatic.com,REJECT
+DOMAIN-SUFFIX,adsame.com,REJECT
+
+# --- Video/App Ads ---
+DOMAIN-SUFFIX,adcolony.com,REJECT
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,adjust.com,REJECT
+DOMAIN-SUFFIX,branch.io,REJECT
+
+# --- Tracking/Statistics ---
+DOMAIN-SUFFIX,analytics.google.com,REJECT
+DOMAIN-SUFFIX,google-analytics.com,REJECT
+DOMAIN-SUFFIX,hotjar.com,REJECT
+DOMAIN-SUFFIX,mixpanel.com,REJECT
+
+[MITM]
+hostname = %APPEND% ads.msn.com, doubleclick.net, googlesyndication.com
