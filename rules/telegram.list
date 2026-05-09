@@ -1,0 +1,8 @@
+#✅ rules/telegram.list
+# Telegram
+# Update: 2026-05
+
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
