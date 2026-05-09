@@ -17,6 +17,11 @@ AND,((IP-CIDR,111.63.61.101/32,no-resolve),(DEST-PORT,6443)),REJECT,pre-matching
 AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443)),REJECT,pre-matching
 AND,((OR,((DOMAIN-SUFFIX,bytegecko.com,extended-matching),(DOMAIN-SUFFIX,byteeffecttos.com,extended-matching))),(DOMAIN-KEYWORD,ncdn,extended-matching)),REJECT,pre-matching
 
+IP-CIDR,43.152.182.139/32,REJECT,pre-matching,no-resolve
+IP-CIDR,43.152.136.207/32,REJECT,pre-matching,no-resolve
+IP-CIDR,38.60.178.90/32,REJECT,pre-matching,no-resolve
+IP-CIDR,58.26.7.175/32,REJECT,pre-matching,no-resolve
+
 [URL Rewrite]
 ^https:\/\/api5-normal-lq\.amemv\.com\/api\/ad\/ - reject
 ^https:\/\/(aweme\.snssdk\.com|api5-normal-m\.amemv\.com)\/api\/ad\/ - reject
