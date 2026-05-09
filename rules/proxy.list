@@ -1,4 +1,4 @@
-# Proxy Common
+# ✅ Proxy Common
 # Update: 2026-05
 
 DOMAIN-SUFFIX,github.com
@@ -19,9 +19,4 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fbcdn.net
-
 DOMAIN-SUFFIX,instagram.com
-
----
