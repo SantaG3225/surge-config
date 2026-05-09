@@ -1,0 +1,9 @@
+# ✅ rules/reject.list
+# Reject / Ads
+# Update: 2026-05
+
+DOMAIN-SUFFIX,ads.msn.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,ads-twitter.com
