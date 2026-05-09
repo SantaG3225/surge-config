@@ -32,5 +32,10 @@ DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,hotjar.com,REJECT
 DOMAIN-SUFFIX,mixpanel.com,REJECT
 
+IP-CIDR,43.152.182.139/32,REJECT,pre-matching,no-resolve
+IP-CIDR,43.152.136.207/32,REJECT,pre-matching,no-resolve
+IP-CIDR,38.60.178.90/32,REJECT,pre-matching,no-resolve
+IP-CIDR,58.26.7.175/32,REJECT,pre-matching,no-resolve
+
 [MITM]
 hostname = %APPEND% ads.msn.com, doubleclick.net, googlesyndication.com
