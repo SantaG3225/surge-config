@@ -1,0 +1,8 @@
+# ✅ rules/openai.list
+# OpenAI / ChatGPT
+# Update: 2026-05
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
