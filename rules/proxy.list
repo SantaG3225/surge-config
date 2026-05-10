@@ -22,16 +22,16 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,instagram.com
 
 # PayPal US domains
-DOMAIN-SUFFIX,paypal.com,Proxy,extended-matching
-DOMAIN-SUFFIX,paypalobjects.com,Proxy,extended-matching
-DOMAIN-SUFFIX,paypal-mktg.com,Proxy,extended-matching
-DOMAIN-SUFFIX,paypalinc.com,Proxy,extended-matching
-DOMAIN-SUFFIX,paypal.me,Proxy,extended-matching
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalinc.com
+DOMAIN-SUFFIX,paypal.me
 # PayPal API / Payments
-DOMAIN-SUFFIX,braintreepayments.com,Proxy,extended-matching
-DOMAIN-SUFFIX,braintreegateway.com,Proxy,extended-matching
-DOMAIN-SUFFIX,paypal-api.com,Proxy,extended-matching
+DOMAIN-SUFFIX,braintreepayments.com
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,paypal-api.com
 # PayPal CDN / Static
-DOMAIN-SUFFIX,pypl.com,Proxy,extended-matching
-DOMAIN-SUFFIX,pphosted.com,Proxy,extended-matching
+DOMAIN-SUFFIX,pypl.com
+DOMAIN-SUFFIX,pphosted.com
 
